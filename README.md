@@ -15,7 +15,7 @@
 
 AUTH_TOKEN:密码
 
-COPY_URL:复制的路径
+COPY_URL:复制的路径，如无，则输入page域名/rest
 
 NODE_VERSION：20.11.1
 
